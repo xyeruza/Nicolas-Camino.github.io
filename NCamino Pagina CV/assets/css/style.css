@@ -1,0 +1,36 @@
+.rrss {
+    background-color: #62929E;
+    color: #FDFDFF;
+    padding: 10px;
+}
+i {
+    color: #FDFDFF;
+}
+h1 {
+    padding-top: 10px;
+    margin: 0px;
+}
+h6 {
+    margin: 0px;
+}
+h2 {
+    padding-top: 10px;
+}
+.galeria {
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* To center the image */
+    border: #393D3F;
+    border-color: #393D3F;
+    border: solid;
+
+}
+body {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h4 
+{
+    padding-top: 10px;
+}
